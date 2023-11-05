@@ -102,14 +102,12 @@ with the fun stuff, maintenance may be spotty.
 
 ### Roadmap
 I have a few ideas for improving the template, or rather the tasks for VS Code. 
-- [ ] #1
-- [ ] #2
+These are found on the [issues][issues] page, and if you have any ideas, issues, wishes 
+etc. feel free to add an issue as well.
 
-If you have any ideas, issues, wishes etc. feel free to add an issue [here][issues].
-
-[MapTool]: https://rptools.net
-[GitHubDocs]: https://docs.github.com/en
 [VSCode]: https://code.visualstudio.com/
 [MTCode]: https://github.com/Tdue21/mtscript-vscode
-[CreateAddOn]: https://wiki.rptools.info/index.php/Creation_of_add-on_libraries
 [issues]: https://github.com/Tdue21/MapTool-AddOn-Template/issues
+[MapTool]: https://rptools.net
+[GitHubDocs]: https://docs.github.com/en
+[CreateAddOn]: https://wiki.rptools.info/index.php/Creation_of_add-on_libraries
