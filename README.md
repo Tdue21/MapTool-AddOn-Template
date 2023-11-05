@@ -15,6 +15,7 @@ Once your new repository has cloned to your local machine, the magic can begin.
 Personally, I work in Windows, so I cannot tell you how to use things on MacOs
 or Linux, but I imagine the basics are more or less the same. 
 
+> [!NOTE]
 > Important to note though, is that the template is optimized for 
 [Visual Studio Code][VSCode], although I imagine you can make it work with 
 other editors as well. 
