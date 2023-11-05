@@ -5,7 +5,7 @@
     "tasks": [
         {
             "label": "Build library",
-            "detail": "Builds the add-on library",
+            "detail": "Builds the add-on library.",
             "type": "shell",
             "command": "${workspaceFolder}/build/build.ps1",
             "args": [
@@ -34,6 +34,13 @@
             "default": "",
             "id": "name",
             "type": "promptString"
+        },
+        {
+            "id":"library",
+            "type": "pickString",
+            "description": "Select library",
+            "default": "",
+            "options": []
         },
         {
             "description": "Version of the library",
