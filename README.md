@@ -101,8 +101,8 @@ with the fun stuff, maintenance may be spotty.
 
 ### Roadmap
 I have a few ideas for improving the template, or rather the tasks for VS Code. 
-- [ ] #1 - Make the `New Library` task add the library name to a list for the `Build Library` task. 
-- [ ] #2 - Make the `Build Library` task select library from a list instead of entering the name.
+- [ ] #1
+- [ ] #2
 
 If you have any ideas, issues, wishes etc. feel free to add an issue [here][issues].
 
